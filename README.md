@@ -4,7 +4,7 @@ A simple and elegant profile card design for showcasing your skills and social l
 
 ## Preview
 
-![Profile Card Preview](link-to-preview-image)
+![Profile Card Preview](https://i.postimg.cc/k4XrQrgC/Pfp-card.jpg)
 
 ## Features
 
